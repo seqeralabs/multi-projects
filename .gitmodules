@@ -1,0 +1,3 @@
+[submodule "rnaseq-nf"]
+	path = rnaseq-nf
+	url = git@github.com:nextflow-io/rnaseq-nf.git
