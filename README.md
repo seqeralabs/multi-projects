@@ -13,3 +13,7 @@ Runs the subproject `foo`. Config and library are resolved against `foo/` subdir
 Runs the subproject `bar`. Config and library are resolved against `bar/` subdir 
 
     nextflow run seqeralabs/multi-projects -main-script bar/main.nf
+
+Runs the subproject `rnaseq-nf`. Config and library are resolved against `rnaseq-nf/` subdir
+
+    nextflow run seqeralabs/multi-projects -main-script rnaseq-nf/main.nf
